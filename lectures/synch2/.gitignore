@@ -1,0 +1,17 @@
+torchrelay-atomic
+torchrelay-mutex
+torchrelay-cond
+torchrelay-onecond
+torchrelay-clever
+minipipe-poll
+minipipe-mutex
+minipipe-cond
+bbuffer-poll
+bbuffer-mutex
+bbuffer-scoped
+bbuffer-cond
+*-noopt
+*-gcc
+*-gcc-noopt
+*-clang
+*-clang-noopt

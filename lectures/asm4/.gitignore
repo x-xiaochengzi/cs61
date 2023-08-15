@@ -1,0 +1,8 @@
+*-clang
+*-clang-noopt
+*-gcc
+*-gcc-noopt
+*-noopt
+*-san
+*.s
+signedoverflow
